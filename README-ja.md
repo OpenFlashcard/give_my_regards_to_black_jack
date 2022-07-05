@@ -2,7 +2,8 @@
 
 # リポジトリの概要
 
-TBD
+## Issues管理
+https://github.com/users/error96num/projects/2/views/1
 
 # 利用方法
 
