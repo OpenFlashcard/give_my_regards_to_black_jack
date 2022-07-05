@@ -2,7 +2,8 @@
 
 # Summary of Repository
 
-TBD
+## Issues Management
+https://github.com/users/error96num/projects/2/views/1
 
 # Usage of Repository
 
