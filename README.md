@@ -1,8 +1,8 @@
 [日本語版 README はこちら](docs/README-ja.md)
 
-# Open Source English Vocabulary Book Project "Give My Regards to Black Jack"
+# Open Source English Vocabulary Book "Give My Regards to Black Jack"
 
-This repository is used to create an open source English vocabulary book for Japanese people based on the manga "Give My Regards to Black Jack".
+This repository is used to create an open source English vocabulary book based on the manga "Give My Regards to Black Jack".
 
 ## Project Page
 
