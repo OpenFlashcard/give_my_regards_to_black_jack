@@ -1,3 +1,7 @@
+<p align="center">
+ <img src="media/eijiro-icon.png" width="240" alt="sparklab">
+</p>
+
 [English README is here](../README.md)
 
 # オープンソース英単語帳『ブラックジャックによろしく』

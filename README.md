@@ -1,3 +1,7 @@
+<p align="center">
+ <img src="docs/media/eijiro-icon.png" width="240" alt="sparklab">
+</p>
+
 [日本語版 README はこちら](docs/README-ja.md)
 
 # Open Source English Vocabulary Book "Give My Regards to Black Jack"
