@@ -19,7 +19,7 @@ We are also looking for [help in creating](https://error96num.notion.site/Worksp
 * Audio recording of sentences to be included in the vocabulary book
 * Correction of errors
 
-## Release Page
+## Release Page (Comming soon...)
 
 The created vocabulary book will be available on [AnkiWeb](https://ankiweb.net/shared/decks/).
 Anyone can use them by installing the [Anki](https://apps.ankiweb.net/) flashcard application.
