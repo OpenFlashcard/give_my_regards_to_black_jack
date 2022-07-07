@@ -12,7 +12,7 @@
 
 プロジェクトの詳細については[プロジェクトページ](https://error96num.notion.site/Open-Source-Vocabulary-Book-Give-My-Regards-to-Black-Jack-da97d1b47d544ac1bb27b8aa20748db1)をご参照ください。
 
-下記、作成協力も承っております！
+下記、[作成協力](https://error96num.notion.site/Workspace-c767513e7eeb44a59c8f60b4a4e12208)も承っております！
 
 * セリフ原稿の書き起こし
 * 単語帳への登録を希望する表現の提出

@@ -12,7 +12,7 @@ This repository is used to create an open source vocabulary book based on the ma
 
 For more information on the project, please see the [project page](https://error96num.notion.site/Open-Source-Vocabulary-Book-Give-My-Regards-to-Black-Jack-da97d1b47d544ac1bb27b8aa20748db1).
 
-We are also looking for help in creating the following!
+We are also looking for [help in creating](https://error96num.notion.site/Workspace-c767513e7eeb44a59c8f60b4a4e12208) as follows!
 
 * Transcription of dialogue manuscript
 * Submission of words or phrases for inclusion in the vocabulary book
